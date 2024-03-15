@@ -1,9 +1,9 @@
 # ip-insight
 
-IPInsight is a Java project designed to analyze and manage IP addresses, providing insights into geolocation data and other relevant information.
+ip-insight is a Java project designed to analyze and manage IP addresses, providing insights into geolocation data and other relevant information.
 
 # Overview
-IPInsight leverages various APIs and libraries to perform the following tasks:
+ip-insight leverages various APIs and libraries to perform the following tasks:
 
 Reading Configuration: Load configuration settings from a config.properties file to customize the behavior of the application.
 IP Analysis: Utilize the IPinfo.io API to retrieve geolocation and other data for a given IP address.
@@ -13,7 +13,7 @@ Configurable: Easily customize the project settings by editing the config.proper
 API Integration: Seamlessly integrate with IPinfo.io API to gather IP information.
 User-Friendly: Present the IP analysis results in a clear and understandable format.
 Getting Started
-To get started with IPInsight, follow these steps:
+To get started with ip-insight, follow these steps:
 
 Clone the repository to your local machine:
 
